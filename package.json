@@ -41,13 +41,19 @@
   },
   "dependencies": {
     "@nuxt/http": "^0.3.2",
+    "@nuxtjs/axios": "^5.6.0",
     "@nuxtjs/google-analytics": "^2.0.2",
+    "@nuxtjs/moment": "^1.2.0",
     "@nuxtjs/pwa": "^3.0.0-beta.16",
     "@nuxtjs/sentry": "^3.0.0",
     "@nuxtjs/sitemap": "^1.2.0",
+    "echarts": "^4.2.1",
+    "html2canvas": "^1.0.0-rc.3",
+    "jspdf": "^1.5.3",
     "lru-cache": "^5.1.1",
     "nuxt": "^2.3.4",
-    "vee-validate": "^2.1.5"
+    "vee-validate": "^2.1.5",
+    "vue-echarts": "^4.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
